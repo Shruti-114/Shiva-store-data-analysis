@@ -24,7 +24,7 @@ The goal is to derive meaningful business insights and create an interactive das
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](images/img.png)
+![Dashboard](data/images/img.png)
 
 ---
 

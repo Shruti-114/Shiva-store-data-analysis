@@ -1,4 +1,4 @@
-# 📊 Vrinda Store Sales Data Analysis (Excel Project)
+# 📊 Shiva Store Sales Data Analysis (Excel Project)
 
 ## 📌 Project Overview
 This project focuses on analyzing Vrinda Store sales data using Microsoft Excel.
